@@ -1,0 +1,65 @@
+sno=int(input('enter student no:'))
+
+sname=input('enter student name:')
+
+sgroup=input('enter student group:')
+
+s1=int(input('java marks :'))
+
+s2=int(input('os marks :'))
+
+s3=int(input('afm marks :'))
+
+s4=int(input('english marks :'))
+
+s5=int(input('online business marks :'))
+
+s6=int(input('telugu marks :'))
+
+if s1>=35 and s2>=35 and s3>=35 and s4>=35 and s5>=36 and s6>=35:
+
+    print('the result is pass')
+
+else:
+
+    print('the result is fail')
+    
+    output:
+    
+enter student no:
+
+36
+
+enter student name:
+
+Kalyani nolli
+
+enter student group:
+
+Bca
+
+java marks :
+
+75
+
+os marks :
+
+70
+
+afm marks :
+
+69
+
+english marks :
+
+65
+
+online business marks :
+
+45
+
+telugu marks :
+
+59
+
+the result is pass
